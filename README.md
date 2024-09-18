@@ -23,7 +23,7 @@
 
 ### 게임 플레이해보기
 
-##### [클릭 시 게임 플레이 사이트로 이동합니다](https://semin-06.github.io/UnityGangwonActionGame/Build)
+##### [클릭 시 게임 플레이 사이트로 이동합니다](https://semin06.itch.io/gangwon-action)
 
 ### 시연 영상 (사진 클릭 시 유튜브로 이동합니다.)
 
